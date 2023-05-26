@@ -1,20 +1,21 @@
 import javax.swing.*;
 
-public class RectangleViewer {
+public class ColorNameViewer {
     public static void main(String[] args) {
 
         JFrame frame = new JFrame();
 
         frame.setSize(500, 500);
 
-        frame.setTitle("Two rectangles");
+        frame.setTitle("12 String Viewer");
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        RectangleComponent component = new RectangleComponent();
+        ColorNameComponent component = new ColorNameComponent();
         frame.add(component);
 
         frame.setVisible(true);
 
     }
+
 }
