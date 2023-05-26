@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d5ec211-8f2b-49e7-9515-bea8f7da649e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../CS003B.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/CenteredSquaresPrinter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/LotteryPrinter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/RectangleComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/RectangleViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/shermanyan/IdeaProjects/CS003B/ProgrammingProject_2.3",
     "onboarding.tips.debug.path": "/Users/shermanyan/IdeaProjects/CS003B/ProgrammingProject_2.3/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -40,6 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685065728002</updated>
       <workItem from="1685065729019" duration="1000" />
+      <workItem from="1685065977053" duration="16000" />
     </task>
     <servers />
   </component>
